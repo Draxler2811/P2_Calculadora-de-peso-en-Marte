@@ -1,0 +1,11 @@
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\bin\Debug\net7.0\TecNM.Practica2.Core.deps.json
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\bin\Debug\net7.0\TecNM.Practica2.Core.dll
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\bin\Debug\net7.0\TecNM.Practica2.Core.pdb
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.AssemblyInfoInputs.cache
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.AssemblyInfo.cs
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.csproj.CoreCompileInputs.cache
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.dll
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\refint\TecNM.Practica2.Core.dll
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.pdb
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\ref\TecNM.Practica2.Core.dll
